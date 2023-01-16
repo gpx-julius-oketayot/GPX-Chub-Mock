@@ -1,0 +1,20 @@
+{
+  "name": "node-test-app",
+  "version": "1.0.0",
+  "description": "This a mock API for Global PayEX",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Julius Peter Oketayot",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "winston": "^3.6.0"
+  },
+  "engines": {
+    "node": "16.14.0"
+  }
+}
